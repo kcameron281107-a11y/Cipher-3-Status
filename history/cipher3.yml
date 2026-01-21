@@ -1,7 +1,7 @@
 url: http://prem-eu4.bot-hosting.net:20962/health
-status: up
-code: 200
-responseTime: 324
-lastUpdated: 2026-01-20T23:29:58.149Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2026-01-21T13:08:06.894Z
 startTime: 2025-12-31T13:38:32.046Z
 generator: Upptime <https://github.com/upptime/upptime>
