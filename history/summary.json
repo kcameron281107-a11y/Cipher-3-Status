@@ -5,16 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/prem-eu4.bot-hosting.net.ico",
     "slug": "cipher3",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.61%",
+    "uptimeDay": "48.54%",
+    "uptimeWeek": "92.65%",
+    "uptimeMonth": "97.61%",
+    "uptimeYear": "97.61%",
     "time": 358,
-    "timeDay": 324,
-    "timeWeek": 354,
+    "timeDay": 0,
+    "timeWeek": 348,
     "timeMonth": 358,
     "timeYear": 358,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-22": 89,
+      "2026-01-21": 652
+    }
   }
 ]
